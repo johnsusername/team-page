@@ -1,5 +1,9 @@
 # team-page
-
+<style>
+  .right {
+left:40%;
+  }
+</style>
 
    <img src="https://www.stockvault.net/data/2016/03/17/188406/preview16.jpg" 
     alt="headphones"
