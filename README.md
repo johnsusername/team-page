@@ -1,11 +1,11 @@
 # team-page
 <style>
   .image1 {
-    here;
+    float: left; margin-right: 15px;
   }
 </style>
 
-   <img src="https://picryl.com/media/headset-gaming-technology-science-technology-6c85b1" 
+   <img src="https://www.stockvault.net/photo/188406/headphone" 
     alt="headphones"
       width="200px" Height="200px"/>
     <p class="image1"> Headphones allow you to hear what is happening and communicate with teammates.</p>
