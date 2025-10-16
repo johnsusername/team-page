@@ -9,3 +9,7 @@
     alt="gaming chair"
       width="200px" Height="200px"/>
      <P> The chair stabilizes the hands and helps you stay comfortable</p>
+  <img src="https://images.pexels.com/photos/7172649/pexels-photo-7172649.jpeg" 
+    alt="mouse and keyboard"
+      width="200px" Height="200px"/>
+     <P> The type of mouse can impact aim and reaction speed, the keyboard type does the same, but for your movements</p>
