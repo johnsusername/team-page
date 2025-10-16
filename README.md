@@ -1,7 +1,7 @@
 # team-page
 <style>
   .image1 {
-    float: left; margin-right: 15px;
+    float: left; margin-right: 15;
   }
 </style>
 
