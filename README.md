@@ -11,7 +11,8 @@ left:40%;
     <p style="margin-bottom: 70px;">Headphones allow you to hear what is happening and communicate with teammates.</p>
      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Gaming_chair_1.jpg" 
     alt="gaming chair"
-      width="200px" Height="200px"/>
+      width="200px" Height="200px"
+       style="float: left; margin-right: 15px;"/>
      <P> The chair stabilizes the hands and helps you stay comfortable</p>
   <img src="https://images.pexels.com/photos/7172649/pexels-photo-7172649.jpeg" 
     alt="mouse and keyboard"
